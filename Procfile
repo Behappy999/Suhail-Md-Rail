@@ -1,1 +1,18 @@
-web: npm start --size=standard-2x 
+web: npm start || yarn start
+
+
+
+# node index.js
+
+
+
+
+
+
+
+
+
+
+
+
+# Creator: SUHAIL TECH
